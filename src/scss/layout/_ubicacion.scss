@@ -1,0 +1,19 @@
+.mapa{
+    padding: $separacion 0;
+    color: $black;
+
+    h2,p{
+        text-align: center;
+
+    }
+    .escudo{
+        width: 10rem;
+        height: 10rem;
+    }
+}
+
+.ubicacion{
+    display: grid;
+    place-items: center;
+}
+
